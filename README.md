@@ -2,7 +2,7 @@
 This repository houses a tag along code of Regression in Machine Learning as requested by Hanmoye Data Science Internship.
 Answers were provided to 9 questions as required by the Internship.
 
-**Descriotion of the Dataset**
+**Description of the Dataset**
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/00374/
 
